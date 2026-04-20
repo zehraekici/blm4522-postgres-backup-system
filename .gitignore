@@ -1,5 +1,7 @@
-backups/
-logs/
+backups/*
+logs/*
+!backups/.keep
+!logs/.keep
 *.sql
 *.gz
 .env
