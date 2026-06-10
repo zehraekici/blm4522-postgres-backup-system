@@ -4,6 +4,8 @@
 Bu projede PostgreSQL veritabanı için yedekleme (backup) işlemleri otomatik hale getirilmiştir. 
 Ayrıca yedeklerin düzenli alınması, loglanması ve gerektiğinde geri yüklenmesi (restore) sağlanmaktadır.
 
+## Video 
+
 https://drive.google.com/file/d/1mLMwmyCJ0W-uBqnZDZ1Cyaf-Unr9VtOa/view?usp=sharing
 
 ## Özellikler
